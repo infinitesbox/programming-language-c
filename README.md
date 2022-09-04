@@ -16,6 +16,6 @@ Ready?
 
 ### Blog
 ---
-- English - [Programming Language – C](#)
+- English - [Programming Language – C](https://infinitesparkbox.com/blog/2022/09/04/programming-language-c/)
 
-- Français - [Langage De Programmation – C](#)
+- Français - [Langage De Programmation – C](https://infinitesparkbox.com/blog/2022/09/04/programmation-langage-c/)
