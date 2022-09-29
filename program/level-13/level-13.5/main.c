@@ -4,7 +4,7 @@
 int main(int argc, char const *argv[])
 {
     FILE *file = NULL;
-    file = fopen("jours.en", "r+");
+    file = fopen("jours.fr", "r+");
 
     char day[255];
     while(fscanf(file, "%s", day) == 1)
