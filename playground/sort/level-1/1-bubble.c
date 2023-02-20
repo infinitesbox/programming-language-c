@@ -41,8 +41,10 @@ int main()
     char cards[5] = { '2', '3', '4', '5', '1' };
     int i, j, tmp;
 
+    // you can sort like this
     bubble_md_1(cards, 5);
-
+    
+    // or
     //bubble_md_2(cards, 5);
 
     printf("%s\n", cards);
