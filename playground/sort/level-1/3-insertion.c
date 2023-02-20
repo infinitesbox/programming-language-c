@@ -12,8 +12,7 @@ int main()
             cards[j] = cards[j - 1];
             j = j - 1;
         }
-        cards[j] = temp;     
-        printf("%c\n", cards[j]);  
+        cards[j] = temp;
     } 
 
     printf("%s\n", cards);
